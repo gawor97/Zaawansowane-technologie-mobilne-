@@ -1,0 +1,12 @@
+[
+  {
+    "warzywo": "Salata",
+    "ilosc": "10",
+    "cena": "5"
+  },
+  {
+    "warzywo": "rzodkiewka",
+    "ilosc": "30",
+    "cena": "3"
+  }
+]
